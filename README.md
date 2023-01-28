@@ -1,7 +1,7 @@
 # Liveness-Detection-Zalo-AI-2022
 ### How to run:
 ```
-cd face-anti-spoofing
+cd Face-Anti-spoofing
 python run.py
 ```
 ## Contact
